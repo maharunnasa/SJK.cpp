@@ -52,7 +52,8 @@ P[1]            10      13              23
 Average Waiting Time: 6
 Average Turn Around Time: 13
 
-*Acknowledgements*
+###Acknowledgements
+
 
 ### Explanation:
 
