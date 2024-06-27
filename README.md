@@ -51,3 +51,16 @@ P[1]            10      13              23
 
 Average Waiting Time: 6
 Average Turn Around Time: 13
+
+*Acknowledgements*
+
+### Explanation:
+
+1. **Introduction**: Briefly explains what the program does.
+2. **Features**: Lists the key features of the program.
+3. **Getting Started**: Provides instructions on prerequisites, installation, and compilation.
+4. **Running the Program**: Explains how to run the compiled program.
+5. **Example Usage**: Provides an example of how the program works with sample input and output.
+6. **License**: Indicates the type of license under which the program is distributed.
+7. **Acknowledgements**: Credits or acknowledgments for inspiration or support.
+
